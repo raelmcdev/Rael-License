@@ -9,7 +9,7 @@ It may be used for any digital project by other creators under the terms below.
 ✅ You MAY use this Project in videos, livestreams, screenshots, or social media posts, as long as credit is given to the original Creator with a visible link to the official download page.  
 ✅ You MAY share the official download link with friends or online communities.  
 ✅ You MAY install this Project on servers or shared worlds only if access is free and the server or world is not sold, paywalled, or otherwise monetized.  
-✅ You MAY modify this Project for personal use. Forking and redistribution are allowed only under the rules defined in Section 5.
+✅ You MAY modify this Project for personal use. Forking and redistribution are allowed with explicit permission from Rael.  
 
 🚫 2. Restrictions – What you are NOT allowed to do:
 
